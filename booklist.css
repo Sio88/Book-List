@@ -1,0 +1,39 @@
+body {
+  padding: 22px;
+  background-image: linear-gradient(red, yellow);
+  background-position: right top;
+  height: auto;
+
+}
+
+
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-size: large;
+}
+
+#book-form {
+  border: solid 3px greenyellow;
+  padding: 20px;
+}
+
+#title:hover {
+  box-shadow: 0 0 10px 4px black
+}
+
+#author:hover {
+  box-shadow: 0 0 10px 4px black
+}
+
+#isbn:hover {
+  box-shadow: 0 0 10px 4px black
+}
+
+
+.u-full-width {
+  border: solid 2px greenyellow;
+  padding: 15px;
+  box-shadow: 10px 10px;
+}
+
